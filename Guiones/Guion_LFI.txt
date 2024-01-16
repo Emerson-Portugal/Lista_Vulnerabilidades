@@ -1,0 +1,13 @@
+Hey que tal gente de Youtube, estamos listos para un nuevo tutorial
+
+En este tutorial vamos hablar sobre la Vulneravilidad Local File Inclusion, vamos a ver como identificar si una maquina es vulnerable a este tipo de Ataque, vamos a realizar las distintos test para poder extraer y comprometer el servicio en base a la Vulneravilidad, para finalmente terminar con un reporte
+
+- Identificacion
+
+Cuando nosotros inspecionamos el codigo fuente de una pagina web y vemos este tipo de ruta
+`index.php?fam=monitor`, nos indica la posivilidad de realizar un LFI, ya ue 
+esta tipo de entrana nos permite esta busqueda.
+
+- Testeo 
+
+- Reporte
